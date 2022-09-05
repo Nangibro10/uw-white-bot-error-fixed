@@ -49,7 +49,7 @@ global.location = "Sri-Lanka" //ur location
 
 //bot bombdy
 global.botname = "Gaming Sanu whatsApp Bot" //ur bot name
-global.websitex = "https://www.youtube.com/channel/UC8CNAgNIXy1O2vLBBSN7tcA" //ur website
+global.websitex = "https://www.youtube.com/channel/UCOJR9RVrjp759xOMx9OSiuw" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "Ravindu thilakshana"
@@ -58,9 +58,9 @@ global.reactmoji = "😘"
 global.ownertag = ['763720288'] //ur owner tag
 global.ownernummenu = ['763720288'] //ur owner number in menu and all
 global.watermark = "Gaming Sanu WhatsApp Bot." //ur watermark
-global.botscript = "https://www.youtube.com/watch?v=vXBO1zJbGJ4"
-global.linkz1 = "https://chat.whatsapp.com/Ivsw8fEw5lW0n0qKEDHfUX"
-global.linkz2 = "https://chat.whatsapp.com/Jub3moTE7jaBERo8DqWXC1"
+global.botscript = "https://www.youtube.com/channel/UCOJR9RVrjp759xOMx9OSiuw"
+global.linkz1 = "https://chat.whatsapp.com/CWth0DVPc1h3ItnhDePUpc"
+global.linkz2 = "https://chat.whatsapp.com/CWth0DVPc1h3ItnhDePUpc"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
